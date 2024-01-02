@@ -27,18 +27,18 @@
 
 ##### Le déploiement continu via Git facilitera les mises à jour, et l'évolutivité sera prise en compte pour accompagner la croissance. Des procédures de maintenance régulières et un plan de support technique garantiront la stabilité et la fiabilité de l'application. Cet environnement vise à offrir une expérience utilisateur optimale tout en respectant les normes de sécurité et de confidentialité.
 ## 2. Contraintes et dépendances avec d'autres projets ou systèmes:
-- ##### **Délai de trois semaines :* Le projet doit être réalisé dans un délai de trois semaines, imposant une pression temporelle considérable pour la conception, le développement, les tests et le déploiement.
-- ##### **Équipe Restreinte de Deux Personnes:* L'équipe de projet est composée de seulement deux membres, limitant la capacité de travail simultané et nécessitant une gestion efficace des tâches et des compétences.
-- ##### **Tests et Validation Accélérés :* En raison du délai court, les phases de tests et de validation seront accélérées, nécessitant une planification minutieuse pour assurer la qualité du produit final.
+- ##### *Délai de trois semaines :* Le projet doit être réalisé dans un délai de trois semaines, imposant une pression temporelle considérable pour la conception, le développement, les tests et le déploiement.
+- ##### *Équipe Restreinte de Deux Personnes:* L'équipe de projet est composée de seulement deux membres, limitant la capacité de travail simultané et nécessitant une gestion efficace des tâches et des compétences.
+- ##### *Tests et Validation Accélérés :* En raison du délai court, les phases de tests et de validation seront accélérées, nécessitant une planification minutieuse pour assurer la qualité du produit final.
 # 4. Besoin du client:
 ## 1. Exigences fonctionnelles:
-- ##### **Authentification :* L’application doit permettre aux utilisateurs de s'inscrire, de se connecter et de gérer leur compte.
+- ##### *Authentification :* L’application doit permettre aux utilisateurs de s'inscrire, de se connecter et de gérer leur compte.
 - ##### *Gestion des Livres : **Ajout, suppression et mise à jour des informations des livres.
-- ##### **Catégorisation :* Attribution et gestion des catégories pour organiser la collection.
-- ##### **Gestion des Utilisateurs :* Approbation des nouveaux utilisateurs et consultation de la liste des inscrits.
-- ##### **Emprunts et Retours :* Processus d'emprunt, enregistrement des retours, et gestion des pénalités.
-- ##### **Notifications et Communication :* Envoi de notifications par e-mail et communication avec les utilisateurs.
-- ##### **Gestion des Blocages Utilisateurs :* Capacité de bloquer temporairement les utilisateurs en cas de non-paiement, avec levée possible du blocage après paiement.
+- ##### *Catégorisation :* Attribution et gestion des catégories pour organiser la collection.
+- ##### *Gestion des Utilisateurs :* Approbation des nouveaux utilisateurs et consultation de la liste des inscrits.
+- ##### *Emprunts et Retours :* Processus d'emprunt, enregistrement des retours, et gestion des pénalités.
+- ##### *Notifications et Communication :* Envoi de notifications par e-mail et communication avec les utilisateurs.
+- ##### *Gestion des Blocages Utilisateurs :* Capacité de bloquer temporairement les utilisateurs en cas de non-paiement, avec levée possible du blocage après paiement.
 ## 2. Exigences non fonctionnelles:
 - ##### *Performances :* Temps de réponse rapide même en cas de charge élevée.
 - ##### *Sécurité : Cryptage des données et protection contre les attaques.
