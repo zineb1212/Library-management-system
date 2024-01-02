@@ -90,7 +90,8 @@
 ## 1. Personnel :
 - ##### Développeur Frontend :*BOULOUDEN Ouissal*
 - ##### Développeur Backend :*CHKAIFI Zineb*
-- ##### Expert en Base de Données :*BOULOUDEN Ouissal - CHKAIFI Zineb*
+- ##### Base de Données :*BOULOUDEN Ouissal - CHKAIFI Zineb*
+- ##### Testeur :*BOULOUDEN Ouissal - CHKAIFI Zineb*
 ## 2. Équipements :
 - ##### *Ordinateurs de Développement pour chaque membre de l'équipe.*
 - ##### *Serveurs pour le Développement, les Tests et la Production.*
@@ -100,5 +101,23 @@
 - ##### *Microsoft SQL Server comme Système de Gestion de Base de Données.*
 - ##### *Jira comme outil de Gestion de Projet.*
 # 11. Communication:
-
-
+## 1. Méthodes de communication:
+##### *Réunions régulières en personne ou virtuelles, messagerie instantanée, e-mails.*
+## 2. Fréquence de communication:
+##### *Réunions hebdomadaires pour le suivi de l'avancement, discussions ad hoc au besoin, mises à jour quotidiennes via la messagerie instantanée.*
+# 12. Gestion des risques:
+## 1. Identification des risques potentiels:
+- ##### *Retard dans le Développement*
+- ##### *Problèmes de Compatibilité*
+- ##### *Non-alignement des fonctionnalités avec les attentes des utilisateurs.*
+- ##### *Vulnérabilités de sécurité non identifiées, attaques malveillantes.*
+## 2. Stratégies d'atténuation:
+- ##### *Planification réaliste des délais initiaux.*
+- ##### *Tests approfondis sur plusieurs plates-formes dès le début du développement.*
+- ##### *Implémentation d'un processus de rétroaction continue.*
+- ##### *Audit régulier de la sécurité du code et des configurations.*
+# 13. Conditions contractuelles :
+##### *Le contrat du projet de gestion de bibliothèque s'articule autour de termes et conditions détaillés, couvrant des aspects cruciaux tels que les objectifs du projet, les délais, le budget, la propriété intellectuelle, la sécurité des données, et la gestion des changements. Des dispositions concernant les pénalités, les récompenses, la confidentialité, la résiliation du contrat, et la signature formelle des parties sont également incluses. Ces conditions contractuelles offrent une base solide pour une collaboration transparente et réussie entre les parties prenantes, assurant ainsi la conformité aux attentes et une réalisation fructueuse du projet.*
+# 14. Validation :
+- ### Processus de validation :
+##### *Pour notre projet de gestion de bibliothèque, nous avons instauré un processus de validation du cahier des charges, axé sur des réunions approfondies avec l'équipe de développement et les parties prenantes clés. Ces sessions ont permis de clarifier les exigences et de répondre aux questions, favorisant une compréhension commune. Les commentaires des participants ont été sollicités lors de sessions formelles de rétroaction, intégrés ensuite à des révisions itératives du cahier des charges. La satisfaction de toutes les parties prenantes a été confirmée par la signature formelle des représentants autorisés, symbolisant l'acceptation mutuelle des termes du document. Ce processus rigoureux garantit une base solide pour le développement de notre application de gestion de bibliothèque, avec un alignement clair sur les objectifs du projet.*
