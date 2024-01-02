@@ -8,7 +8,7 @@
  - #####    Les clients sont les utilisateurs finaux de l'application, cherchant à emprunter des livres, faire des demandes, et interagir avec la collection de la bibliothèque.
 ##### 2.Administrateur de la Bibliothèque :
   - #####    L'administrateur est responsable de la gestion globale du système et de la supervision des opérations de la bibliothèque.
-###### 3.Développeurs et Équipe Technique :
+##### 3.Développeurs et Équipe Technique :
   - #####    L'équipe technique est chargée de concevoir, développer, et maintenir l'application.
 # 2. Présentation du projet:
 ## 1. Description générale du projet:
@@ -40,8 +40,8 @@
 - ##### **Notifications et Communication :* Envoi de notifications par e-mail et communication avec les utilisateurs.
 - ##### **Gestion des Blocages Utilisateurs :* Capacité de bloquer temporairement les utilisateurs en cas de non-paiement, avec levée possible du blocage après paiement.
 ## 2. Exigences non fonctionnelles:
-- ##### **Performances :* Temps de réponse rapide même en cas de charge élevée.
-- ##### **Sécurité :* Cryptage des données et protection contre les attaques.
-- ##### **Compatibilité :* Compatibilité avec les principaux navigateurs web.
-- ##### **Fiabilité :* Fiabilité minimisant les temps d'arrêt imprévus.
-- ##### **Disponibilité :* Accès 24/7 .
+- ##### *Performances :* Temps de réponse rapide même en cas de charge élevée.
+- ##### *Sécurité : Cryptage des données et protection contre les attaques.
+- ##### *Compatibilité :* Compatibilité avec les principaux navigateurs web.
+- ##### *Fiabilité :* Fiabilité minimisant les temps d'arrêt imprévus.
+- ##### *Disponibilité :* Accès 24/7 .
