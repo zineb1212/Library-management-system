@@ -25,9 +25,9 @@
 
 ###### Le frontend sera développé en Angular, offrant une expérience utilisateur intuitive. La sécurité des données sera assurée par des protocoles stricts, tandis que des services de messagerie électronique seront intégrés pour les notifications automatiques.
 
-###### Le déploiement continu via Git facilitera les mises à jour, et l'évolutivité sera prise en compte pour accompagner la croissance. Des procédures de maintenance régulières et un plan de support technique garantiront la stabilité et la fiabilité de l'application. Cet environnement vise à offrir une expérience utilisateur optimale tout en respectant les normes de sécurité et de confidentialité.
+###### Le déploiement continu via Git facilitera les mises à jour, et l'évolutivité sera prise en compte pour accompagner la croissance. Des procédures de maintenance régulières et un plan de support technique garantiront la stabilité et la **fiabilité** de l'application. Cet environnement vise à offrir une expérience utilisateur optimale tout en respectant les normes de sécurité et de confidentialité.
 ## 2. Contraintes et dépendances avec d'autres projets ou systèmes:
-- ###### <span style="font-weight: bold;">Délai de trois semaines :</span> Le projet doit être réalisé dans un délai de trois semaines, imposant une pression temporelle considérable pour la conception, le développement, les tests et le déploiement.
+- ###### Délai de trois semaines :Le projet doit être réalisé dans un délai de trois semaines, imposant une pression temporelle considérable pour la conception, le développement, les tests et le déploiement.
 - ###### **Équipe Restreinte de Deux Personnes** :L'équipe de projet est composée de seulement deux membres, limitant la capacité de travail simultané et nécessitant une gestion efficace des tâches et des compétences.
 - ###### ** Tests et Validation Accélérés :** En raison du délai court, les phases de tests et de validation seront accélérées, nécessitant une planification minutieuse pour assurer la qualité du produit final.
 # 4. Besoin du client:
