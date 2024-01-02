@@ -32,13 +32,13 @@
 - ###### ** Tests et Validation Accélérés :** En raison du délai court, les phases de tests et de validation seront accélérées, nécessitant une planification minutieuse pour assurer la qualité du produit final.
 # 4. Besoin du client:
 ## 1. Exigences fonctionnelles:
-- ##### ** Authentification :** L’application doit permettre aux utilisateurs de s'inscrire, de se connecter et de gérer leur compte.
-- ###### ** Gestion des Livres :** Ajout, suppression et mise à jour des informations des livres.
-- ###### ** Catégorisation :** Attribution et gestion des catégories pour organiser la collection.
-- ###### ** Gestion des Utilisateurs :**Approbation des nouveaux utilisateurs et consultation de la liste des inscrits.
-- ###### ** Emprunts et Retours :**Processus d'emprunt, enregistrement des retours, et gestion des pénalités.
-- ###### **  Notifications et Communication :**Envoi de notifications par e-mail et communication avec les utilisateurs.
-- ###### **Gestion des Blocages Utilisateurs :* Capacité de bloquer temporairement les utilisateurs en cas de non-paiement, avec levée possible du blocage après paiement.
+- ###### Authentification : ###### L’application doit permettre aux utilisateurs de s'inscrire, de se connecter et de gérer leur compte.
+- ##### Gestion des Livres :###### Ajout, suppression et mise à jour des informations des livres.
+- ##### Catégorisation :###### Attribution et gestion des catégories pour organiser la collection.
+- ##### Gestion des Utilisateurs : ###### Approbation des nouveaux utilisateurs et consultation de la liste des inscrits.
+- ##### Emprunts et Retours :###### Processus d'emprunt, enregistrement des retours, et gestion des pénalités.
+- ##### Notifications et Communication :######Envoi de notifications par e-mail et communication avec les utilisateurs.
+- ##### Gestion des Blocages Utilisateurs :###### Capacité de bloquer temporairement les utilisateurs en cas de non-paiement, avec levée possible du blocage après paiement.
 ## 2. Exigences non fonctionnelles:
 - ###### **Performances :* Temps de réponse rapide même en cas de charge élevée.
 - ###### **Sécurité :* Cryptage des données et protection contre les attaques.
