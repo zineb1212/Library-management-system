@@ -45,3 +45,60 @@
 - ##### Compatibilité :*Compatibilité avec les principaux navigateurs web.*
 - ##### Fiabilité :*Fiabilité minimisant les temps d'arrêt imprévus.*
 - ##### Disponibilité :*Accès 24/7 .*
+# 5. Portée du projet:
+## 1. Inclus:
+- ##### *Ajout, mise à jour et suppression d'informations sur les livres.*
+- ##### *Fonctionnalité de catégorisation pour une organisation efficace de la collection.*
+- ##### *Approbation des nouveaux utilisateurs et consultation de la liste des inscrits.*
+- ##### *Processus complet d'emprunts, de retours, et calcul des pénalités pour retards.*
+- ##### *Notifications automatiques par e-mail pour les rappels de retours en retard et autres communications.*
+- ##### *Blocage temporaire des utilisateurs en cas de non-paiement, avec levée possible du blocage après paiement.*
+- ##### *Compatibilité avec les principaux navigateurs web (Chrome, Firefox, Safari) pour maximiser l'accessibilité.*
+## 2. Exclus:
+- ##### *L'intégration avec d'autres systèmes institutionnels n'est pas incluse dans cette phase du projet.*
+- ##### *Des fonctionnalités avancées de gestion des utilisateurs, telles que la hiérarchie des rôles, ne sont pas comprises dans la portée initiale.*
+- ##### *Un module de discussion entre utilisateurs n'est pas envisagé dans cette version.*
+# 6. Contraintes:
+## 1.Contrainte Temporelle :
+##### *Le projet doit être développé et mis en œuvre dans un délai strict de trois semaines, imposant une pression temporelle significative sur toutes les phases du projet.*
+## 2. Interopérabilité avec des Systèmes Existant :
+##### *L'application doit s'interfacer de manière harmonieuse avec d'autres systèmes institutionnels existants, imposant des contraintes d'interopérabilité.*
+## 3. Ressources Humaines Limitées :
+##### *L'équipe de développement est composée de seulement deux membres, ce qui peut limiter la capacité de travail simultané et influencer la rapidité d'exécution des tâches.*
+# 7. Critères d'acceptation:
++ ### Conditions de réussite:
+- ##### *La livraison complète de l'application de gestion de bibliothèque doit être effectuée dans les trois semaines spécifiées.*
+- ##### *Toutes les fonctionnalités essentielles, telles que la gestion des livres, des utilisateurs, des emprunts et retours, doivent être implémentées conformément aux spécifications.*
+- ##### *L'interface utilisateur doit être intuitive, conviviale et répondre aux attentes des utilisateurs pour une expérience positive.*
+- ##### *Les mesures de sécurité mises en place doivent garantir la confidentialité des données des utilisateurs et résister à d'éventuelles menaces.*
+- ##### *La satisfaction des utilisateurs doit être évaluée par des retours positifs et une utilisation régulière de l'application.*
+- ##### *L'architecture de l'application doit montrer sa capacité à évoluer facilement pour répondre à des besoins futurs.*
+# 8. Livrables:
++ ### Produits ou résultats attendus:
+- ##### *L'application complète développée, comprenant toutes les fonctionnalités spécifiées dans le cahier des charges.*
+- ##### *Une documentation détaillée comprenant les manuels d'utilisation, les guides de maintenance et toute autre information pertinente.*
+- ##### *Les résultats des tests de performance, confirmant la réactivité optimale de l'application.*
+- ##### *Des retours d'utilisateurs et une évaluation de la satisfaction globale du public cible.*
+- ##### *Un bilan du projet, comprenant des enseignements tirés, des recommandations et des perspectives pour de futures améliorations.*
+# 9. Planning:
+- ##### Phase de Préparation :*
+- ##### Phase de Conception :*
+- ##### Phase de Développement :*
+- ##### Phase de Tests et Validation:*
+- ##### Phase de Finalisation et Livraison:*
+# 10. Ressources :
+## 1. Personnel :
+- ##### Développeur Frontend :*BOULOUDEN Ouissal*
+- ##### Développeur Backend :*CHKAIFI Zineb*
+- ##### Expert en Base de Données :*BOULOUDEN Ouissal - CHKAIFI Zineb*
+## 2. Équipements :
+- ##### *Ordinateurs de Développement pour chaque membre de l'équipe.*
+- ##### *Serveurs pour le Développement, les Tests et la Production.*
+### 3. Logiciels :
+- ##### *Visual Studio Code pour Angular.*
+- ##### *Visual Studio pour ASP.NET.*
+- ##### *Microsoft SQL Server comme Système de Gestion de Base de Données.*
+- ##### *Jira comme outil de Gestion de Projet.*
+# 11. Communication:
+
+
