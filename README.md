@@ -5,9 +5,9 @@
 ###### Le contexte de notre projet de gestion de bibliothèque s'inscrit dans la volonté d'optimiser et de moderniser les processus au sein de notre institution. Face à l'évolution rapide de la technologie et aux besoins croissants de nos usagers, la bibliothèque reconnaît la nécessité de passer d'un système de gestion manuelle à une plateforme informatisée. L'objectif est de garantir une gestion plus efficace de notre collection diversifiée de livres, de simplifier les opérations d'emprunt et de retour, et d'améliorer l'expérience globale des utilisateurs.
 ## 3. Parties prenantes et leurs rôles:
 ###### 1.Clients:
-  ######    Les clients sont les utilisateurs finaux de l'application, cherchant à emprunter des livres, faire des demandes, et interagir avec la collection de la bibliothèque.
+ - ######    Les clients sont les utilisateurs finaux de l'application, cherchant à emprunter des livres, faire des demandes, et interagir avec la collection de la bibliothèque.
 ###### 2.Administrateur de la Bibliothèque :
-  ######    L'administrateur est responsable de la gestion globale du système et de la supervision des opérations de la bibliothèque.
+  - ######    L'administrateur est responsable de la gestion globale du système et de la supervision des opérations de la bibliothèque.
 ###### 3.Développeurs et Équipe Technique :
   ######    L'équipe technique est chargée de concevoir, développer, et maintenir l'application.
 # 2. Présentation du projet:
