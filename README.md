@@ -81,11 +81,10 @@
 - ##### *Des retours d'utilisateurs et une évaluation de la satisfaction globale du public cible.*
 - ##### *Un bilan du projet, comprenant des enseignements tirés, des recommandations et des perspectives pour de futures améliorations.*
 # 9. Planning:
-- ##### Phase de Préparation :*
-- ##### Phase de Conception :*
-- ##### Phase de Développement :*
-- ##### Phase de Tests et Validation:*
-- ##### Phase de Finalisation et Livraison:*
+- ##### Phase de Préparation :*2jours*
+- ##### Phase de Conception :*3jours*
+- ##### Phase de Développement :*15jours*
+- ##### Phase de Tests et Validation:*2jours*
 # 10. Ressources :
 ## 1. Personnel :
 - ##### Développeur Frontend :*BOULOUDEN Ouissal*
